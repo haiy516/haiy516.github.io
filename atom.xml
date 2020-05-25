@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haiy516.github.io/</id>
     <title>王辉的日志</title>
-    <updated>2020-05-25T17:26:32.364Z</updated>
+    <updated>2020-05-25T17:30:32.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haiy516.github.io/"/>
     <link rel="self" href="https://haiy516.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://haiy516.github.io/post/jia-jiao-xin-xi-2/">
         </link>
         <updated>2020-05-25T16:59:08.000Z</updated>
-        <content type="html"><![CDATA[<p>家教地址：沈河区省医院<br>
+        <content type="html"><![CDATA[<!-- more -->
+<p>家教地址：沈河区省医院<br>
 年级性别：高三，女孩，基础较差<br>
 辅导科目：乐理<br>
 上课时间：周一到周五 三到四次左右 下午一点到三点<br>
