@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haiy516.github.io/</id>
     <title>王辉的日志</title>
-    <updated>2020-05-25T17:23:21.962Z</updated>
+    <updated>2020-05-25T17:26:32.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haiy516.github.io/"/>
     <link rel="self" href="https://haiy516.github.io/atom.xml"/>
@@ -36,15 +36,6 @@
 上课时间：周一到周六晚上8点到10点上2个小时，周日上半天<br>
 教师要求：男老师<br>
 教师报酬：160/2小时</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创建自己的网站]]></title>
-        <id>https://haiy516.github.io/post/chuang-jian-zi-ji-de-wang-zhan/</id>
-        <link href="https://haiy516.github.io/post/chuang-jian-zi-ji-de-wang-zhan/">
-        </link>
-        <updated>2020-05-25T16:15:13.000Z</updated>
-        <content type="html"><![CDATA[<p>github创建仓库，结合Gridea可以创建自己的网站😀</p>
 ]]></content>
     </entry>
 </feed>
