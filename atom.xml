@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haiy516.github.io/</id>
     <title>王辉的个人网站</title>
-    <updated>2020-05-26T03:16:03.313Z</updated>
+    <updated>2020-05-26T04:24:33.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haiy516.github.io/"/>
     <link rel="self" href="https://haiy516.github.io/atom.xml"/>
@@ -29,6 +29,7 @@
 上课时间：周一到周五晚上7-9<br>
 教师要求：有经验<br>
 教师报酬：120/2小时</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -50,6 +51,7 @@
 上课时间：周一到周五晚上7-9<br>
 教师要求：有经验<br>
 教师报酬：120/2小时</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -71,6 +73,7 @@
 上课时间：周六和周日或者平时晚上5点后<br>
 教师要求：有经验<br>
 教师报酬：120/2小时</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -92,6 +95,7 @@
 上课时间：周一到周五 三到四次左右 下午一点到三点<br>
 教师要求：女老师<br>
 教师报酬：150/1.5小时</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -113,6 +117,7 @@
 上课时间：周一到周六晚上8点到10点上2个小时，周日上半天<br>
 教师要求：男老师<br>
 教师报酬：160/2小时</p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
