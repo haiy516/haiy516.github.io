@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haiy516.github.io/</id>
-    <title>王辉的日志</title>
-    <updated>2020-05-25T17:30:32.411Z</updated>
+    <title>王辉的个人网站</title>
+    <updated>2020-05-26T01:33:53.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haiy516.github.io/"/>
     <link rel="self" href="https://haiy516.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://haiy516.github.io/images/avatar.png</logo>
     <icon>https://haiy516.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 王辉的日志</rights>
+    <rights>All rights reserved 2020, 王辉的个人网站</rights>
     <entry>
         <title type="html"><![CDATA[家教信息2]]></title>
         <id>https://haiy516.github.io/post/jia-jiao-xin-xi-2/</id>
